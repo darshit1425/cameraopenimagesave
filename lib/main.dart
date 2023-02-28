@@ -7,7 +7,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/': (context) => Home1(),
+        '/': (context) => Home(),
       },
     ),
   );

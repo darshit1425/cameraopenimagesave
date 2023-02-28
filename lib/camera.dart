@@ -23,7 +23,7 @@ class _HomeState extends State<Home> {
         backgroundColor: Colors.grey,
         appBar: AppBar(
           backgroundColor: Color(0xFF008069),
-          title: Text("Profile"),
+          title: Text("open camera pick image"),
           leading: Icon(Icons.arrow_back),
         ),
         body: Center(
